@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "429693817344",
+    "firebase_url": "https://quickchat-30519.firebaseio.com",
+    "project_id": "quickchat-30519",
+    "storage_bucket": "quickchat-30519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429693817344:android:861ec33904a58446cefee5",
+        "android_client_info": {
+          "package_name": "jalak.quick_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429693817344-0b86har0hedgjbv5s9t4c0025vr4uup0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxC53BcEwsDRIGoiG0xfXe_PG32gdP8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429693817344-0b86har0hedgjbv5s9t4c0025vr4uup0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
